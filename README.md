@@ -1,13 +1,7 @@
-# Predictive-Lead-Gen-
-### Repository Name: LeadForesightAI  ---  ### Description:  **LeadForesightAI: Smart Lead Scoring Engine for D2C Startups**  Unlock the power of predictive analytics with Lead Foresight AI, a state-of-the-art smart lead scoring engine designed specifically for D2C startups.
+# Predictive-Lead-
+**LeadForesightAI: Smart Lead Scoring Engine for D2C Startups**  Unlock the power of predictive analytics with Lead Foresight AI.
 
-### Repository Name: LeadForesightAI
 
----
-
-### Description:
-
-**LeadForesightAI: Smart Lead Scoring Engine for D2C Startups**
 
 Unlock the power of predictive analytics with LeadForesightAI, a state-of-the-art smart lead scoring engine designed specifically for D2C startups. Leveraging cutting-edge machine learning algorithms, this tool identifies potential leads by analyzing user activities, past purchase behaviors, and campaign interactions.
 
@@ -29,11 +23,8 @@ Unlock the power of predictive analytics with LeadForesightAI, a state-of-the-ar
 Whether you're a data scientist aiming to refine predictive models or a sales strategist looking to optimize lead management, LeadForesightAI offers the tools and insights needed to drive your D2C startup's growth.
 
 **Get Started:**
-1. **Clone the Repository:** `git clone https://github.com/yourusername/LeadForesightAI.git`
+1. **Clone the Repository:** `git clone https://github.com/Raju-vuggina/LeadForesightAI.git`
 2. **Explore the Data:** Examine the sample dataset and understand the key variables.
 3. **Run the Models:** Test various machine learning algorithms included in the repository to identify the best performing model for your data.
 4. **Predict and Analyze:** Use the trained models to predict lead propensity and analyze the results to enhance your marketing and sales strategies.
 
----
-
-Feel free to customize this description further based on your specific implementation details and features.
